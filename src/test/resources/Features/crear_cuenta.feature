@@ -14,6 +14,8 @@
       When el usuario ingresa toda su informacion correctamente
       Then vera el mensaje bienvenido
 
+
+      
     Scenario: Creacion de boton registrar
       Given el usuario se encuentra en la pagina del formulario
       When el usuario ingresa toda su informacion correctamente
