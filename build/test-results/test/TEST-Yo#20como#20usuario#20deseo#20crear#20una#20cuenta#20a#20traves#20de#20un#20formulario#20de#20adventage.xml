@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como usuario deseo crear una cuenta a traves de un formulario de adventage" tests="3" skipped="3" failures="0" errors="0" timestamp="2021-10-20T21:29:11" hostname="CAMILO" time="0.031">
+  <properties/>
+  <testcase name="Creacion de cuenta exitosa" classname="Yo como usuario deseo crear una cuenta a traves de un formulario de adventage" time="0.009">
+    <skipped/>
+  </testcase>
+  <testcase name="Creacion de cuenta fallida" classname="Yo como usuario deseo crear una cuenta a traves de un formulario de adventage" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Creacion de boton registrar" classname="Yo como usuario deseo crear una cuenta a traves de un formulario de adventage" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
